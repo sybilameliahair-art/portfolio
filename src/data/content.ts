@@ -164,7 +164,6 @@ export const gallery = [
 ];
 
 export const hours = [
-  { day: "Tuesday — Friday", time: "09:00 — 19:00" },
-  { day: "Saturday", time: "09:00 — 17:00" },
-  { day: "Sunday — Monday", time: "Closed" },
+  { day: "Saturday — Sunday", time: "09:00 — 19:00" },
+  { day: "Monday — Friday", time: "Closed" },
 ];
